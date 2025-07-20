@@ -1,3 +1,5 @@
 title: Stephanie Tsao
 logo: /assets/File_000.png
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
